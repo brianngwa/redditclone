@@ -1,5 +1,4 @@
 import React from "react";
-
 function Middle() {
   return (
     <div className="flex flex-col  p-4 m-x ">
